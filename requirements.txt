@@ -1,0 +1,16 @@
+tensorflow>=2.12
+keras>=2.12
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+scipy
+Pillow
+jupyter
+notebook
+tqdm
+efficientnet
+imutils
+albumentations
